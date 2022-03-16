@@ -25,6 +25,9 @@ Hey there, I'm Stephen Le, a Grade 12 student from Canada that's interested in f
 <a href="https://github.com/HerschaLo/Monitor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HerschaLo&repo=monitor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/HerschaLo/Shopify-frontend-challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HerschaLo&repo=shopify-frontend-challenger&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 
