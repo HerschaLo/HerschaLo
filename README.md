@@ -2,7 +2,7 @@
 
 # Who I am
 
-Hey there, I'm Stephen Le, a Grade 12 student from Canada that's interested in front-end web development with Javascript, HTML, and CSS. I specialize in using React and Firebase and I'm always looking for opportunities to hone my skills. Currently, I'm working on my <a href="https://github.com/HerschaLo/Monitor">productivity chrome extension</a>. 
+I'm a highly-driven student who's always looking for opportunities to sharpen my programming skills and help others along the way. I focus on web development, with an emphasis on developing a fullstack skillset. For frontend, I mainly use React.js, though I'm also familiar with vanilla HTML, CSS, and Javascript. For backend, I'm proficient with Firebase Firestore, Authentication, and Storage. I'm also proficient with MongoDB, Express, testing with Mocha and Chai, NodeJS, and Typescript. My latest project is my <a href="[https://github.com/HerschaLo/Monitor](https://github.com/HerschaLo/GridFS-file-tree-manager)">GridFS-file-tree-manager package</a>. 
 
 # Technologies & Tools
 ![](https://img.shields.io/badge/-ReactJS-202020?logo=react)
