@@ -14,6 +14,8 @@ Hey there, I'm Stephen Le, a Grade 12 student from Canada that's interested in f
 ![](https://img.shields.io/badge/-Gatsby-202020?logo=gatsby)
 ![](https://img.shields.io/badge/-MongoDB-202020?logo=mongodb)
 ![](https://img.shields.io/badge/-Typescript-202020?logo=typescript)
+![](https://img.shields.io/badge/-Mocha-202020?logo=mocha)
+![](https://img.shields.io/badge/-Chai-202020?logo=chai)
 # GitHub Stats
 
 <a href="https://github.com/HerschaLo/HerschaLo">
