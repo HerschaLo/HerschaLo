@@ -29,9 +29,6 @@ I'm a highly-driven student who's always looking for opportunities to sharpen my
 <a href="https://github.com/HerschaLo/GridFS-file-tree-manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HerschaLo&repo=gridfs-file-tree-manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/HerschaLo/Monitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HerschaLo&repo=monitor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <a href="https://github.com/HerschaLo/Shopify-frontend-challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HerschaLo&repo=shopify-frontend-challenge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
