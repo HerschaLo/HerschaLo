@@ -4,8 +4,6 @@
 
 I'm a university student who's always looking for opportunities to improve my programming skills and help others along the way! I focus on web development, with an emphasis on developing a fullstack skillset.
 
-You can find my resume <a href="https://drive.google.com/file/d/12djW3V4yACYZn3jkkdW2UXYJ01Rd0t2v/view?usp=sharing">here</a>.
-
 # GitHub Stats
 
 <a href="https://github.com/HerschaLo/HerschaLo">
